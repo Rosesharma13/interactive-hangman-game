@@ -1,16 +1,3 @@
-const words = [
-  "javascript",
-  "algorithm",
-  "developer",
-  "computer",
-  "frontend",
-  "backend",
-  "database",
-  "network",
-  "hangman",
-  "programming"
-];
-
 const hangmanStages = [
 `
  +---+
