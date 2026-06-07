@@ -1,12 +1,22 @@
 const words = [
   "javascript",
   "algorithm",
-  "computer",
   "developer",
+  "computer",
   "frontend",
   "backend",
   "database",
   "network",
   "hangman",
-  "programming"
+  "programming",
+  "python",
+  "react",
+  "nodejs",
+  "software",
+  "engineering",
+  "machinelearning",
+  "artificialintelligence",
+  "cybersecurity",
+  "datascience",
+  "cloudcomputing"
 ];
