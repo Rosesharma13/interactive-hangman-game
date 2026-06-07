@@ -12,10 +12,7 @@ An interactive browser-based Hangman game built using HTML, CSS, and JavaScript.
 ## 🚀 Live Demo
 
 🔗 Live Application
-
-```text
-https://your-live-demo-link
-```
+https://rosesharma13.github.io/interactive-hangman-game/
 
 ---
 
