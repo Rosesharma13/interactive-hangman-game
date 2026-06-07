@@ -1,22 +1,22 @@
-const words = [
-  "javascript",
-  "algorithm",
-  "developer",
-  "computer",
-  "frontend",
-  "backend",
-  "database",
-  "network",
-  "hangman",
-  "programming",
-  "python",
-  "react",
-  "nodejs",
-  "software",
-  "engineering",
-  "machinelearning",
-  "artificialintelligence",
-  "cybersecurity",
-  "datascience",
-  "cloudcomputing"
-];
+const words = {
+  Programming: [
+    "javascript",
+    "python",
+    "react",
+    "algorithm"
+  ],
+
+  Animals: [
+    "elephant",
+    "tiger",
+    "giraffe",
+    "dolphin"
+  ],
+
+  Countries: [
+    "india",
+    "canada",
+    "germany",
+    "australia"
+  ]
+};
