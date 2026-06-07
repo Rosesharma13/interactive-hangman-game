@@ -188,9 +188,9 @@ This project is licensed under the MIT License.
 
 **Rose Sharma**
 
-GitHub: https://github.com/your-github-username
-Portfolio: https://rosesharma13.github.io/
-LinkedIn: https://linkedin.com/in/your-linkedin-profile
+- GitHub: https://github.com/your-github-username
+- Portfolio: https://rosesharma13.github.io/
+- LinkedIn: https://linkedin.com/in/your-linkedin-profile
 
 ---
 
